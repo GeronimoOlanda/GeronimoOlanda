@@ -1,4 +1,4 @@
-### Opa eai, beleza? 👋
+### Opa Eai, Beleza? 👋
 
 Nota: Este não é indicador do meu nível de habilidade, ou algo parecido, é apenas as métricas do github, sobre quais linguagens estou mais utilizando por aqui.
 
