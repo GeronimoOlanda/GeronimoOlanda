@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado pelo que faço, ajudo as pessoas a irem em busca de seus sonhos!
 
-<center>https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white </center>
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white 
 
 
 <a href="https://github.com/GeronimoOlanda"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /><a/>
