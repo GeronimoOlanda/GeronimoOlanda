@@ -7,3 +7,6 @@ Sou um desenvolvedor apaixonado, programar vai além de apenas um job, é um est
 * Redes Sociais e Meios de Contatos!<br>
 <a href="https://www.linkedin.com/in/geronimo-olanda-9a6a4313a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+* Outros
+
+<a href="https://leetcode.com/nenejp85/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
