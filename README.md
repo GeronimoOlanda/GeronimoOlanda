@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Desenvolvedor de Software Full Stack | Angular, .NET, ETL, SharePoint, Dapper, Entity Framework e mais<br>Desenvolvedor full stack com sólida experiência em tecnologias frontend e backend. Habilidade comprovada em Angular e .NET, além de expertise em JavaScript, ETL, SharePoint, Dapper, Entity Framework e Razor. Trabalho com integração de sistemas, otimização de performance e implementação de boas práticas de arquitetura de software.<br><br>Focado em entregar soluções robustas e escaláveis, com forte interesse em desenvolvimento ágil e qualidade de código. Familiaridade com metodologias ágeis, versionamento de código e práticas modernas de desenvolvimento.
+Sou Desenvolvedor full stack com sólida experiência em tecnologias frontend e backend. Habilidade comprovada em Angular e .NET, além de expertise em JavaScript, ETL, SharePoint, Dapper, Entity Framework e Razor. Trabalho com integração de sistemas, otimização de performance e implementação de boas práticas de arquitetura de software.<br><br>Focado em entregar soluções robustas e escaláveis, com forte interesse em desenvolvimento ágil e qualidade de código. Familiaridade com metodologias ágeis, versionamento de código e práticas modernas de desenvolvimento.
 
 
 ## 🌐 Socials:
