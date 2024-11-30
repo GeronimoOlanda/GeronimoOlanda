@@ -47,7 +47,6 @@ Driven by clean code, best practices, and agile methodologies, I thrive on solvi
 ## 🌐 Connect With Me  
 
 - **LinkedIn:** [Gerônimo Olanda](https://www.linkedin.com/in/ger%C3%B4nimo-olanda-9a6a4313a/)  
-- **Instagram:** [@geroolandaa](https://instagram.com/geroolandaa)  
 - **Stack Overflow:** [Gerônimo Olanda](https://stackoverflow.com/users/15027309/geronimo-olanda)  
 
 ---
