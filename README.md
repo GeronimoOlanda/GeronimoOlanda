@@ -42,7 +42,7 @@ Driven by clean code, best practices, and agile methodologies, I thrive on solvi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
 
----
+----
 
 ## 🌐 Connect With Me  
 
@@ -50,7 +50,7 @@ Driven by clean code, best practices, and agile methodologies, I thrive on solvi
 - 
 - **Stack Overflow:** [Gerônimo Olanda](https://stackoverflow.com/users/15027309/geronimo-olanda)  
 
----
+----
 
 ## 🚀 Let’s Build the Future Together  
 
