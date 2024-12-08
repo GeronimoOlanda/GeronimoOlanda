@@ -6,7 +6,7 @@ With over five years of experience in software development, I specialize in craf
 
 Driven by clean code, best practices, and agile methodologies, I thrive on solving complex problems and delivering value to projects with precision and efficiency.  
 
----
+----
 
 ## 💼 Professional Highlights  
 
@@ -16,7 +16,7 @@ Driven by clean code, best practices, and agile methodologies, I thrive on solvi
 - **Collaboration:** Effective in **Agile environments** like Scrum, Kanban, and XP.  
 - **Quality Assurance:** Hands-on with **SpecFlow**, **Selenium**, and unit testing.  
 
----
+----
 
 ## 🛠️ Tech Stack  
 
