@@ -1,46 +1,82 @@
-# 🌟 Gerônimo Olanda — Full-Stack Developer  
+# 🌟 Gerônimo Olanda — Full-Stack Developer & Arquiteto de Software  
 
-**Passionate about building robust, scalable, and modern software solutions.**  
+Desenvolvedor Full-Stack com mais de **3 anos de experiência** em aplicações corporativas. Especialista em **.NET (C#), Angular** e **SQL Server**, atuando em design, implementação de novas funcionalidades, modernização de sistemas legados e otimização de performance.  
 
-With over five years of experience in software development, I specialize in crafting seamless integrations between front-end and back-end technologies. I have a proven track record in delivering high-performance applications using **Angular**, **.NET Core**, **JavaScript**, **SharePoint**, **Entity Framework**, and other cutting-edge tools.  
+Foco em **soluções escaláveis, código limpo e entrega de software de alta qualidade**.  
 
-Driven by clean code, best practices, and agile methodologies, I thrive on solving complex problems and delivering value to projects with precision and efficiency.  
+---
 
-----
+## 💼 Experiência Profissional  
 
-## 💼 Professional Highlights  
+| Empresa | Período | Cargo | Tecnologias / Atuação |
+|--------|---------|------|---------------------|
+| Rerum Engenharia de Sistemas LTDA | Dez 2021 – Atualmente | Full-Stack Developer / Arquiteto | .NET (C#), Angular (1.6–18), SQL Server, Entity Framework, Dapper, REST APIs, Azure DevOps, CI/CD, Docker, RabbitMQ, Kafka, Ionic, Figma, ETL, Testes Unitários (MSTest), Testes Automatizados (SpecFlow, Selenium) |
 
-- **Technologies:** Expert in **Angular**, **.NET Core**, **React**, and **Kotlin** for full-stack development. Proficient in **Razor**, **ETL processes**, **Dapper**, and more.  
-- **Architecture:** Skilled in **Clean Architecture**, **SOLID principles**, **DDD**, and microservices.  
-- **DevOps & Cloud:** Experienced with **Azure**, **AWS**, and modern CI/CD pipelines.  
-- **Collaboration:** Effective in **Agile environments** like Scrum, Kanban, and XP.  
-- **Quality Assurance:** Hands-on with **SpecFlow**, **Selenium**, and unit testing.  
+---
 
-----
+## 🛠 Principais Competências  
 
-## 🛠️ Tech Stack  
+| Categoria | Tecnologias / Ferramentas |
+|-----------|---------------------------|
+| **Front-End** | Angular, React.js, TypeScript, JavaScript, HTML5, CSS3, SASS, LESS, Bootstrap, Angular Material, RxJS, jQuery |
+| **Back-End** | C#, .NET Framework/Core (4.5–8), ASP.NET, Node.js, Python, PHP (Laravel, CodeIgniter, CakePHP), SharePoint, JavaFX |
+| **ORMs** | Entity Framework, Entity Framework Core, Dapper |
+| **Mensageria** | RabbitMQ, Kafka |
+| **Mobile** | Ionic + Angular, Java |
+| **Bancos de Dados** | SQL Server, MySQL, PostgreSQL, PL/SQL |
+| **DevOps & Cloud** | Azure DevOps, CI/CD, Docker |
+| **Testes & QA** | MSTest, Unit Test, SpecFlow, Selenium, Gherkin |
+| **Arquitetura & Boas Práticas** | SOLID, Design Patterns (Singleton, Factory, Repository, Service), Programação OO, Funcional e Lógica, Modernização de Sistemas Legados |
+| **Ferramentas de Design** | Figma, Diagramas UML, ETL |
 
-### **Languages & Frameworks**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+---
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+## 🏢 Setores de Atuação  
 
-### **Databases**  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+| Setor | Projetos / Empresas |
+|-------|-------------------|
+| **Setor Elétrico** | ONS, CEMIG, FURNAS |
+| **Saúde** | Brazil Dental, Prevident, W.Dental, Bioral, Santander Saúde |
+| **Agropecuária** | Fazenda SobControle, ABS |
+| **Financeiro e Contábil** | Soluções de gestão financeira e contábil |
+| **Outros** | Projetos de Marketing e RH |
 
-### **DevOps & Tools**  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
+---
 
-----
+## 📊 Tech Stack Visual  
 
-## 🌐 Connect With Me  
+### **Front-End**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-- **LinkedIn:** [Gerônimo Olanda](https://www.linkedin.com/in/ger%C3%B4nimo-olanda-9a6a4313a/)
-- 
+### **Back-End & ORM**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Dapper](https://img.shields.io/badge/Dapper-FF4F00?style=for-the-badge&logo=none)  
+
+### **Bancos de Dados**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **DevOps & Ferramentas**
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🌐 Contato  
+
+- **LinkedIn:** [Gerônimo Olanda](https://www.linkedin.com/in/ger%C3%B4nimo-olanda-9a6a4313a/)  
 - **Stack Overflow:** [Gerônimo Olanda](https://stackoverflow.com/users/15027309/geronimo-olanda)  
 
-----
+---
 
-## 🚀 Let’s Build the Future Together  
+## 🚀 Let’s Build the Future  
 
-I’m always open to new challenges and collaborations! If you’re looking for a developer with a strong foundation, innovative mindset, and a passion for quality, let’s connect and create something amazing.  
+Focado em **entregar soluções robustas, escaláveis e de alta performance**.  
+Sempre aberto a **novos desafios, projetos estratégicos e colaborações**.
