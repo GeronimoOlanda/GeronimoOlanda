@@ -17,6 +17,6 @@ Foco em **software robusto, moderno e de alto impacto**, com experiência em arq
 | **Amazonia32** | Desenvolvedor Full Stack | Mai 2019 – Jul 2019 | Desenvolvimento web de alta performance. Tecnologias: HTML, CSS, PHP, MySQL, Django. |
 | **W3C** | Assistente de Desenvolvimento de Negócios | Fev 2019 – Jul 2019 | Identificação de oportunidades de negócio, suporte a equipes e CRM. |
 | **edge Brasil** | Estagiário de Marketing Digital | Jan 2019 – Jun 2019 | Estratégias de marketing digital, geração de leads e CRM (HubSpot, RD Station, Salesforce). |
-| **FUNDAP Guatemala** | Estagiário | Jan 2014 – Dez 2015 | Apoio administrativo e operacional em projetos institucionais. |
+| **FUNDAP** | Estagiário | Jan 2014 – Dez 2015 | Apoio administrativo e operacional em projetos institucionais. |
 
 
